@@ -1,6 +1,4 @@
-# Python version used is 3.13
-# 📬 Contact
-# For any questions, reach out at **fay.abdillah@gmail.com**.
+
 
 def display_board(board):
     print("\n")
