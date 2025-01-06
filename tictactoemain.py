@@ -1,3 +1,7 @@
+# Python version used is 3.13
+# 📬 Contact
+# For any questions, reach out at **fay.abdillah@gmail.com**.
+
 def display_board(board):
     print("\n")
     print(" " + board[0] + " | " + board[1] + " | " + board[2])
