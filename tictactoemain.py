@@ -18,7 +18,7 @@ def check_winner(board, player):
     for condition in win_conditions:
         if board[condition[0]] == board[condition[1]] == board[condition[2]] == player:
             return True
-        return False
+    return False
 
 def play_game():
     board = [" "] * 9
