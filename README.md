@@ -1,14 +1,14 @@
 
 # Text-Based Tic Tac Toe Game (Python)
 
-A simple **Tic Tac Toe** game built with **Python** that runs directly in the command-line interface (CLI). This project demonstrates basic game logic, user interaction, and control flow in Python.
+A simple Tic Tac Toe game built with Python that runs directly in the command-line interface (CLI). This project demonstrates basic game logic, user interaction, and control flow in Python.
 
 ---
 
 ## **Overview**  
 Tic Tac Toe is a classic two-player game where the goal is to get three of your marks (X or O) in a row, either horizontally, vertically, or diagonally.
 
-This version is a **text-based game** that runs in the terminal, allowing two players to take turns and interact via the command line.
+This version is a text-based game that runs in the terminal, allowing two players to take turns and interact via the command line.
 
 ---
 
